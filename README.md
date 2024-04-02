@@ -3,9 +3,9 @@
 <br>
 
 # Hello, I'm Anouar!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
-### Full Stack Developer
+ :computer: ### Full Stack Developer
 
-:computer: _Software Engenieer 
+ 
 
 </div>
 
