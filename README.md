@@ -3,10 +3,12 @@
 <br>
 
 # Hello, I'm Anouar! 👋 
-# Full Stack Developer
+## Full Stack Developer
 
-#### You can find me on:
- [Text to display](mailto:your_email@yahoo.com)
+#### For any inquiries, feel free to send me an email.
+####    [Get in touch](mailto:g.anouar@yahoo.com)
+
+
 
 <br>
 <br>
