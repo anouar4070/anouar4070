@@ -5,11 +5,11 @@
 # Hello, I'm Anouar!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
  :computer:  Full Stack Developer
  </div>
-
+<br><br><br>
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
 
-              Happy Coding! 😊
+ Happy Coding! 😊
 
 <div align="center">
 
