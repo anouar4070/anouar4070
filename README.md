@@ -6,7 +6,8 @@
 # Full Stack Developer
 
 #### You can find me on:
- [Yahoo](g.anouar@yahoo.com)
+ [Text to display](mailto:your_email@yahoo.com)
+
 <br>
 <br>
 </div>
