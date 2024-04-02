@@ -5,8 +5,7 @@
 # Hello, I'm Anouar!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
 
 
-##### For any inquiries, feel free to send me an email.
-####    [Get in touch](mailto:g.anouar@yahoo.com)
+
 
 <br>
 <br>
@@ -37,3 +36,5 @@ Happy Coding! 😊
 <br>
 
 </div>
+##### For any inquiries, feel free to send me an email.
+####    [Get in touch](mailto:g.anouar@yahoo.com)
