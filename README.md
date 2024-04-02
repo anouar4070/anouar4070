@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 <br>
 
-# Hello, I'm Anouar! 👋 
+# Hello, I'm Anouar!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
 ## Full Stack Developer
 
 #### For any inquiries, feel free to send me an email.
