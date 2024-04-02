@@ -12,13 +12,13 @@
 ## Anouar: Full Stack Developer  ‍
 ##### For any inquiries, feel free to send me an email.
 ####    [Get in touch](mailto:g.anouar@yahoo.com)
-</div>
+
 
 Hi there! I'm Anouar, a passionate Full Stack Developer with a strong interest in building web applications. I enjoy working on both the front-end and back-end aspects of development.
 
 :computer: _Software Engenieer :desert_island:Living in Sousse :Tunisia:
 
-
+</div>
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
