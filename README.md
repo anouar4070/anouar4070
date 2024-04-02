@@ -3,15 +3,15 @@
 <br>
 
 # Hello, I'm Anouar!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
-
+## Full Stack Developer
 
 
 
 <br>
 <br>
-Anouar: Full Stack Developer  ‍
-For any inquiries, feel free to send me an email.
-  [Get in touch](mailto:g.anouar@yahoo.com)
+Anouar:   ‍
+#### For any inquiries, feel free to send me an email.
+[Get in touch](mailto:g.anouar@yahoo.com)
 
 
 Hi there! I'm Anouar, a passionate Full Stack Developer with a strong interest in building web applications. I enjoy working on both the front-end and back-end aspects of development.
