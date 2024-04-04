@@ -13,8 +13,8 @@
  
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
-
-
+</div>
+<div>
 #### Skills
 I have experience using these tools and languages
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -36,8 +36,8 @@ I have experience using these tools and languages
 **Contributions:**
 
 I welcome contributions to my open-source projects. Please refer to the contribution guidelines in each project's repository.
-</div>
 
+</div>
 
 
 
