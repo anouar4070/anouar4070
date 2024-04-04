@@ -13,7 +13,7 @@
 </div>
 <br>
 
-**Skills:**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=222831&random=false&width=435&lines=Skills%3A)](https://git.io/typing-svg)
 <br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
