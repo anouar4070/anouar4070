@@ -3,7 +3,7 @@
 <br>
 
 # Hello, I'm Anouar!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
- :computer:  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5755FE&random=false&width=435&lines=Aspiring+Full+Stack+Developer;Lifelong+Learner)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5755FE&random=false&width=435&lines= :computer: Aspiring+Full+Stack+Developer;Lifelong+Learner)](https://git.io/typing-svg)
  </div>
 <br><br><br>
 
