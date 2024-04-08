@@ -30,7 +30,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=222831&random=false&width=435&lines=Contributions%3A)](https://git.io/typing-svg)
 <br>
-I welcome contributions to my open-source projects. Please refer to the contribution guidelines in each project's repository.
+:speaking_head: I welcome contributions to my open-source projects. Please refer to the contribution guidelines in each project's repository.
 
 
 
