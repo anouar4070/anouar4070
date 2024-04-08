@@ -32,7 +32,7 @@
 <br>
 :speaking_head: I welcome contributions to my open-source projects. Please refer to the contribution guidelines in each project's repository.
 
-![snake gif](https://github.com/anouar4070/anouar4070/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/anouar4070/anouar4070/blob/output/github-contribution-grid-snake.svg)
 
 
 
