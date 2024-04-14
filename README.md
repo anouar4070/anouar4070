@@ -1,8 +1,5 @@
 <div align="center">
- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
-<br><br>
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="800">
-
 <br>
 
 # Hello, I'm Anouar!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
@@ -40,7 +37,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=222831&random=false&width=435&lines=Contributions%3A)](https://git.io/typing-svg)
 <br>
 :speaking_head: I welcome contributions to my open-source projects. Please refer to the contribution guidelines in each project's repository.
-
+<br>
+ <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 
 
 
