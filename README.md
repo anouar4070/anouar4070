@@ -37,7 +37,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=222831&random=false&width=435&lines=Contributions%3A)](https://git.io/typing-svg)
 <br>
 :speaking_head: I welcome contributions to my open-source projects. Please refer to the contribution guidelines in each project's repository.
-<br><br><br>
+<br><br>
  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 
 
