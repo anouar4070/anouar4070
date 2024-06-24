@@ -6,6 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=453F78&background=12407600&center=true&random=false&width=435&lines=Aspiring+Full+Stack+Developer;Lifelong+Learner)](https://git.io/typing-svg)
  </div>
 <br><br><br>
+div
 
  <div>
 :star_struck: <i> You have finally discovered my Github profile!</i> <br>
