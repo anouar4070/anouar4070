@@ -15,15 +15,13 @@ jobs:
       - name: Generate contribution snake
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: anouar4070
+          svg_out_path: output/github-contribution-grid-snake.svg
 
       - name: Push generated files
         run: |
-          mkdir -p output
-          mv dist/github-contribution-grid-snake.svg output/
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add output
+          git add output/github-contribution-grid-snake.svg
           git commit -m "Generated contribution snake animation" || echo "No changes to commit"
           git push
