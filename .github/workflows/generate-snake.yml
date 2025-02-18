@@ -16,17 +16,14 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Push generated files
         run: |
           mkdir -p output
           mv dist/github-contribution-grid-snake.svg output/
-          mv dist/github-contribution-grid-snake-dark.svg output/
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add output
-          git commit -m "Generated contribution snake animation"
+          git commit -m "Generated contribution snake animation" || echo "No changes to commit"
           git push
