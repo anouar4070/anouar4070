@@ -35,6 +35,10 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![atom](https://badges.aleen42.com/src/atom.svg)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=flat-square&logo=docker&logoColor=ffffff)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326ce5?style=flat-square&logo=kubernetes&logoColor=ffffff)
+![NestJS](https://img.shields.io/badge/-NestJS-%23E0234E?style=flat-square&logo=nestjs&logoColor=ffffff)
+
 
 
 
