@@ -51,13 +51,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:g.anouar@yahoo.com)  
 
 
-## 🐍 Contribution Snake  
-![Snake animation](https://github.com/anouar4070/anouar4070/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=222831&random=false&width=435&lines=Contributions%3A)](https://git.io/typing-svg)
 <br><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="30" /> <span>  I welcome contributions to my open-source projects. Please refer to the contribution guidelines in each project's repository.</span>
 <br><br>
