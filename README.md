@@ -46,6 +46,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anouar4070&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anouar4070&layout=compact&theme=radical)  
 
+## 📫 Contact Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/anouar-garbaa/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:g.anouar@yahoo.com)  
+
+
 
 
 
