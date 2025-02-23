@@ -35,6 +35,7 @@
 ![mongodb](https://badges.aleen42.com/src/mongodb.svg)
 ![SQL](https://img.shields.io/badge/-SQL-%23007396?style=flat-square&logo=sql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%2300758F?style=flat-square&logo=mysql&logoColor=ffffff)
+![XAMPP](https://img.shields.io/badge/Powered%20by-XAMPP-blue)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
