@@ -15,6 +15,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=222831&random=false&width=435&lines=Skills%3A)](https://git.io/typing-svg)
 <br>
+
+## 👨‍💻 About Me  
+I'm a passionate **Full Stack Developer** with experience in **React, Node.js, Express, databases and NextJS**.  
+<br>
 ## 🛠 Tech Stack  
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
