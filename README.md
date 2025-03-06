@@ -32,7 +32,7 @@ I'm a passionate **Full Stack Developer** with experience in **React, Node.js, E
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-API-FF6C37?style=flat&logo=postman&logoColor=white)
-![Nodemailer](https://img.shields.io/npm/v/nodemailer?color=blue&label=Nodemailer&logo=npm)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-v6.9.7-green?logo=gmail&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white)
 ![ejs](https://badges.aleen42.com/src/ejs.svg)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
