@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me  
 I'm a passionate **Full Stack Developer** with experience in **React, Node.js, Express, databases and NextJS**.  
 <br>
-## 🛠 Tech Stack  
+## 🛠 Tech Stack 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -51,6 +51,9 @@ I'm a passionate **Full Stack Developer** with experience in **React, Node.js, E
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![atom](https://badges.aleen42.com/src/atom.svg)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=flat-square&logo=docker&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326ce5?style=flat-square&logo=kubernetes&logoColor=ffffff)
 ![NestJS](https://img.shields.io/badge/-NestJS-%23E0234E?style=flat-square&logo=nestjs&logoColor=ffffff)
