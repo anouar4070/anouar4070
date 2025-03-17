@@ -28,6 +28,8 @@ I'm a passionate **Full Stack Developer** with experience in **React, Node.js, E
 ![tailwindcss](https://badges.aleen42.com/src/tailwindcss.svg)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&link=https://www.figma.com)
+![Figma](https://badges.aleen42.com/src/figma.svg)
+
 ![npm](https://badges.aleen42.com/src/npm.svg)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express&logoColor=white)
