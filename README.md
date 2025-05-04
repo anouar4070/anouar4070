@@ -17,7 +17,7 @@
 <br>
 
 ## 👨‍💻 About Me  
-I'm a passionate **Full Stack Developer** with experience in **React, Node.js, Express, databases and NextJS**.  
+I'm a passionate **Full Stack Developer** with experience in **React, Node.js, Express, Nest, databases and NextJS**.  
 <br>
 ## 🛠 Tech Stack 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
