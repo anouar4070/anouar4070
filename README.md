@@ -34,6 +34,7 @@ I'm a passionate **Full Stack Developer** with experience in **React, Node.js, E
 ![Postman](https://img.shields.io/badge/Postman-API-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-green?logo=gmail&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-2FA0F1?logo=pusher&logoColor=white)
 ![ejs](https://badges.aleen42.com/src/ejs.svg)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
