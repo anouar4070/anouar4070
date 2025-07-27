@@ -1,6 +1,6 @@
 <div align="center">
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="800">
-<br>
+<br>ddfdf
 
 # Hello, I'm Anouar!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=453F78&background=12407600&center=true&random=false&width=435&lines=Aspiring+Full+Stack+Developer;Lifelong+Learner)](https://git.io/typing-svg)
