@@ -57,6 +57,7 @@ I'm a passionate **Full Stack Developer** with experience in **React, Node.js, E
 ![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=flat-square&logo=docker&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326ce5?style=flat-square&logo=kubernetes&logoColor=ffffff)
 ![NestJS](https://img.shields.io/badge/-NestJS-%23E0234E?style=flat-square&logo=nestjs&logoColor=ffffff)
+![NextAuth](https://img.shields.io/badge/NextAuth-black?style=flat-square&logo=next-auth&logoColor=white)
 
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anouar4070&show_icons=true&theme=radical)  
